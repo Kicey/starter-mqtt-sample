@@ -1,0 +1,7 @@
+mqtt:
+  uri: tcp://kicey.site:1883
+  username: test # user for test, might be deleted at any time
+  password: test
+logging:
+  level:
+    root: debug
